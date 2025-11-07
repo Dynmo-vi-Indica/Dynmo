@@ -1,0 +1,23 @@
+{
+    "owner": {
+      "username": "Dynmo-vi-Indica",
+      "email": "me@dynmo.is-a.dev",
+      "discord": "dynmus_indicus"
+    },
+    "records": {
+      "MX": [
+        {
+          "target": "mx1.improvmx.com",
+          "priority": 10
+        },
+        {
+          "target": "mx2.improvmx.com",
+          "priority": 20
+        }
+      ],
+      "TXT": [
+        "v=spf1 include:spf.improvmx.com ~all"
+      ],
+      "URL": "https://github.com/Dynmo-vi-Indica"
+    }
+  }
